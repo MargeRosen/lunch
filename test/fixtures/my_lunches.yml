@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  meal: MyString
+  bu: 1
+  cost: 1.5
+
+two:
+  meal: MyString
+  bu: 1
+  cost: 1.5
